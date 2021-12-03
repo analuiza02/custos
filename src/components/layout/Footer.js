@@ -16,7 +16,7 @@ function Footer(){
                 </li>
             </ul>
             <p className={styles.copy_right}>
-                <span>Prof Anderson - Projeto Custos</span>
+                <span>Ana Luiza de Oliveira Ferreira - Projeto Custos</span>
                 &copy; 2021
                 </p>
         </footer>
